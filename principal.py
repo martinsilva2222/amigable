@@ -5,5 +5,5 @@ for elemento in una_lista:
 
 nombre = ["lara", "papa", "juan", "martin", "luis", "michelle"]
 
-for alumno in nombre:
-    print("Hola alumno:", alumno)
+for alumnos in nombre:
+    print("Hola alumno:", alumnos)
