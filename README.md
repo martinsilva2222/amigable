@@ -86,7 +86,7 @@ for elemento in lista:
 
 | 6696 | Juan   | Silva    | 9    | 160    |
 
-| 8745 | Maria   | Silva    | 2    | 45    |
+| 8745 | Maria  | Silva    | 2    | 160    |
 
 
 
