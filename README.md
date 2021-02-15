@@ -6,7 +6,7 @@
 
 
 
-Este es mi primera vez en MD. Es lgo muy interesanto porque estoy aprendiendo cosas nuevas que me ayudaran en mi progreso personal. Hoy aprendí algo en `GitHub`, `Python` y `Django`. Me falta tiempo, practica y más motivación. A parte de una buena esposa, que no tengo en este momento. Todo lo vamos a relaciona con `Python`. Por ejemplo:
+Esta es mi primera vez en MarkDown. Es lgo muy interesante porque estoy aprendiendo cosas nuevas que me ayudaran en mi progreso personal. Hoy aprendí algo en `GitHub`, `Python` y `Django`. Me falta tiempo, practica y más motivación. A parte de una buena computadora y sobre todo dos pantallas para poder progresar mejor y esforzar menos mi vista. Todo lo vamos a relacionar con `Python`. Por ejemplo:
 
 
 
